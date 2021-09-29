@@ -1,3 +1,3 @@
-#Demo #hashtag for main header
+#Demo 
 
 Some description.
